@@ -1,0 +1,6 @@
+
+<!-- Google Maps Incorporado  -->
+    <div class="Google-Maps">	
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3673.8893863298917!2d-43.19393468513257!3d-22.954300484987726!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x997fe0d5488ec5%3A0x6eb6f463a1374111!2sR.+Volunt%C3%A1rios+da+P%C3%A1tria%2C+-+Botafogo%2C+Rio+de+Janeiro+-+RJ%2C+22270-010!5e0!3m2!1spt-BR!2sbr!4v1527636033795" 
+    class="responsive" width="100%" height="auto" frameborder="2px solid #ddd" allowfullscreen="true" title="Maps"> </iframe>
+    </div> <!--  Fim Google Maps Incorporado  -->	
